@@ -4,4 +4,5 @@ node default {
   include "003_config_file"
   include "004_create_folder_structure"
   include "005_create_link"
+  include "006_ntpdate_package"
 }
