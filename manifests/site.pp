@@ -8,4 +8,6 @@ node default {
   # include "007_ntpdate_uninstall"
   # include "008_ntpdate_from_source"
   include "010_notify_fqdn"
+  # include "011_user_admin"
+  include "012_remove_admin"
 }
