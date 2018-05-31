@@ -6,5 +6,6 @@ node default {
   include "005_create_link"
   # include "006_ntpdate_package"
   # include "007_ntpdate_uninstall"
-  include "008_ntpdate_from_source"
+  # include "008_ntpdate_from_source"
+  include "010_notify_fqdn"
 }
