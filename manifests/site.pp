@@ -18,4 +18,5 @@ node default {
   # include "018_sshkey"
   include "019_sshkey_remove"
   include "020_hosts"
+  include "021_cron"
 }
